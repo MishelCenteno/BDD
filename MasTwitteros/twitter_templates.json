@@ -1,0 +1,26 @@
+{
+    "template":"twitter",
+    "order":1,
+    "settings":{
+        "number_of_shards":1
+    },
+    "mappings":{
+        "tweet":{
+            "all":{
+                "enabled":false
+            },
+            "properties":{
+                "coordinates":{
+                    "properties":{
+                        "coordinates":{
+                            "type":"geo_point"
+                        },
+                        "type":{
+                            "type":"string"
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
