@@ -8,10 +8,10 @@ import json #Libreria para manejar archivos JSON
 
 ###Credenciales de la cuenta de Twitter########################
 #Poner aqui las credenciales de su cuenta privada, caso contrario la API bloqueara esta cuenta de ejemplo
-ckey = "SEvk2LCbY6Jies6leTYG2LhIM"
-csecret = "2P3OXvLQTBRUlu2SJhlduxx2tA9wbWitSaqDY39YzjL3nv5ZDx"
-atoken = "1026854286-ZFTBo7TVvsvi4cg2I7eR5bSD3R1EFYSFBjvWNxh"
-asecret = "rhJcrVfaQID0HKriR49mGPvz79ZQkBwJ1VOdsoSI0URv6"
+ckey = "
+csecret = ""
+atoken = ""
+asecret = ""
 
 #####################################
 
